@@ -25,15 +25,14 @@ Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados 
 
 3. Usar un archivo .html para cada ejercicio:
 
-
-    * Para cada ejercicio, crea un nuevo archivo con la extensión .html. Por ejemplo, para el ejercicio 1, crea un archivo llamado ejercicio1.html.
+    * Para cada ejercicio, crea un nuevo archivo con la extensión .html. Por ejemplo, para el ejercicio 1, crea un archivo llamado ejercicio1.html y así sucesivamente con cada ejercicio.
     * En cada archivo .html, escribe el código HTML correspondiente al ejercicio específico.
 
 
 ## Ejercicios
 1. Crear una estructura jerárquica: Crea una página HTML sobre "Mi viaje de aventuras" utilizando todos los niveles de encabezados (h1 a h6) para estructurar el contenido. Incluye al menos un párrafo bajo cada encabezado.
 
-2. Artículo de blog: Diseña la estructura de un artículo de blog sobre "Los beneficios del ejercicio" utilizando h1 para el título principal, h2 para las secciones principales y h3 para subsecciones. Agrega párrafos relevantes bajo cada encabezado.
+2. Crea un barra de navegación horizontal: Diseña la estructura de un artículo de blog sobre "Los beneficios del ejercicio" utilizando h1 para el título principal, h2 para las secciones principales y h3 para subsecciones. Agrega párrafos relevantes bajo cada encabezado.
 
 3. Resumen de libro: Crea una página que resuma un libro favorito. Usa h1 para el título del libro, h2 para los capítulos principales y párrafos para describir el contenido de cada capítulo. Utiliza la etiqueta <span> para resaltar palabras clave en los párrafos.
 
