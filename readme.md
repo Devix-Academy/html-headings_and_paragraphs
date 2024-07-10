@@ -1,4 +1,4 @@
-# Bienvenido al ejercicio donde pondrás a prueba todos tus conocimientos en: Encabezados y párrafos
+# Ejercicios para Poner a Prueba tus Conocimientos de la lección : Encabezados y párrafos
 
 **¡Desafía tus habilidades HTML!**
 
