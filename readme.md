@@ -1,4 +1,4 @@
-# Ejercicios para Poner a Prueba tus Conocimientos de la lección : Encabezados y párrafos
+# Ejercicios para poner a prueba tus conocimientos de la lección : Encabezados y párrafos
 
 **¡Desafía tus habilidades HTML!**
 
