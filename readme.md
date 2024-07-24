@@ -9,7 +9,7 @@ Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados 
 ### Instrucciones:
 1. Fork del repositorio en Github:
 
-    * Accede a la URL del repositorio https://github.com/github.
+    * Accede a la URL del repositorio https://github.com/Devix-Academy/html-headings_and_paragraphs.
     * Haz clic en el botón "Fork" ubicado en la esquina superior derecha.
     * Elige tu cuenta de GitHub y selecciona una reubicación para tu fork.
     * Haz clic en el botón "Fork repository" para crear tu copia personal del repositorio.
