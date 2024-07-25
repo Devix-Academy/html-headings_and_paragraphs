@@ -29,17 +29,22 @@ Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados 
 
 
 ## Ejercicios
-1. Crear una estructura jerárquica: Crea una página HTML sobre "Mi viaje de aventuras" utilizando todos los niveles de encabezados (h1 a h6) para estructurar el contenido. Incluye al menos un párrafo bajo cada encabezado.
 
-2. Crea un barra de navegación horizontal: Diseña la estructura de un artículo de blog sobre "Los beneficios del ejercicio" utilizando h1 para el título principal, h2 para las secciones principales y h3 para subsecciones. Agrega párrafos relevantes bajo cada encabezado.
+### Ejercicios # 1: Crear una estructura jerárquica 
+Crea una página HTML sobre "Mi viaje de aventuras" utilizando todos los niveles de encabezados (h1 a h6) para estructurar el contenido. Incluye al menos un párrafo bajo cada encabezado.
 
-3. Resumen de libro: Crea una página que resuma un libro favorito. Usa h1 para el título del libro, h2 para los capítulos principales y párrafos para describir el contenido de cada capítulo. Utiliza la etiqueta <span> para resaltar palabras clave en los párrafos.
+### Ejercicios # 2: Crea un barra de navegación horizontal
+Diseña la estructura de un artículo de blog sobre "Los beneficios del ejercicio" utilizando h1 para el título principal, h2 para las secciones principales y h3 para subsecciones. Agrega párrafos relevantes bajo cada encabezado.
 
-4. Página de receta: Estructura una receta de cocina utilizando encabezados y párrafos. Usa h1 para el nombre de la receta, h2 para secciones como "Ingredientes" y "Preparación", y h3 para subdividir la preparación en pasos. Utiliza párrafos para detallar la información.
+### Ejercicios # 3: Resumen de libro
+Crea una página que resuma un libro favorito. Usa h1 para el título del libro, h2 para los capítulos principales y párrafos para describir el contenido de cada capítulo. Utiliza la etiqueta <span> para resaltar palabras clave en los párrafos.
 
-5. Perfil personal:
-Crea una página de perfil personal utilizando encabezados y párrafos. Usa h1 para tu nombre, h2 para secciones como "Sobre mí", "Educación" y "Experiencia", y h3 para detalles específicos dentro de cada sección. Utiliza párrafos para elaborar la información y <span> para resaltar habilidades o logros importantes.
+### Ejercicios # 4: Página de receta 
+Estructura una receta de cocina utilizando encabezados y párrafos. Usa h1 para el nombre de la receta, h2 para secciones como "Ingredientes" y "Preparación", y h3 para subdividir la preparación en pasos. Utiliza párrafos para detallar la información.
+
+### Ejercicios # 5: Perfil personal
+Crea una página de perfil personal utilizando encabezados y párrafos. Usa h1 para tu nombre, h2 para secciones como "Sobre mí", "Educación" y "Experiencia", y h3 para detalles específicos dentro de cada sección. Utiliza párrafos para elaborar la información y  `<span>`  para resaltar habilidades o logros importantes.
 
 **¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML.
 
-**¡Confío en tus habilidades!** Adelante, demuestra tu dominio de los encabezados y párrafos en HTML y lleva tus proyectos web al siguiente nivel.
+**¡Confío en tus habilidades!** Adelante, demuestra tu dominio en HTML y lleva tus proyectos web al siguiente nivel.
